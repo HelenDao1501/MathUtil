@@ -9,7 +9,8 @@ It is a part of Software Engineering course in Semester 4 at FPT University, HCM
 * gitignore file
 
 ## Contact me Via
-[GitHub](https://github.com/HelenDao1501)
-[Facebook](https://bom.to/NQRpgX)
+1. [GitHub](https://github.com/HelenDao1501)
+2. [Facebook](https://bom.to/NQRpgX)
+3. [Email](tramdbse140878@fpt.edu.vn)
 
 #### <> 2020 by HenlenDao
