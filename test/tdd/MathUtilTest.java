@@ -30,7 +30,8 @@ public class MathUtilTest {
     //mỗi @Test biến hàm thành một hàm main() riêng biệt và shift-f6 chạy 
     //cmt @Test phế hàm này thành hàm bt, ko đc chạy trong lần shift f6
     //trò này do thư viện JUnit nó bày ra, bày thêm màu sắc XANH ĐỎ nữa
-    @Test(expected = IllegalArgumentException.class) 
+    @Test(expected = IllegalArgumentException.class)
+    //Test(expected = NumberFormatException.class)
     public void testFailedCases(){
         //hàm này test những tình huống cà chớn, tức là đưa đầu vào cà chớn
         //ví dụ cF(-5) sao mà tính đc, cF(20) to quá, tràn số của em mất
